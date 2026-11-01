@@ -1,5 +1,11 @@
 <div align="center">
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shaheer-khan-7a531925a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge)](https://sk-creatives.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sk._.creatives/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/shaheerkhan23)
+
 # Hi 👋, I'm Shaheer Khan
 
 ### MERN Stack Developer | Full-Stack JavaScript
