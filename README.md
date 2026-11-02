@@ -103,6 +103,11 @@ React interfaces • REST APIs • MongoDB applications
 
 # 📊 GitHub Activity
 
+### 🐍 Contribution Snake
+
+![Contribution snake animation](https://profile-readme-generator.com/assets/snake.svg)
+
+
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/shaheer1020k-coder?style=for-the-badge&logo=github&label=Followers)
@@ -123,4 +128,5 @@ Interested in practical web applications, MERN projects and opportunities to lea
 **Clean interfaces. Clear logic. Continuous improvement.**
 
 </div>
+
 
